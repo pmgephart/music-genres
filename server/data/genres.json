@@ -1,0 +1,36 @@
+[
+  {
+    "key": "shoegaze",
+    "title": "Shoegaze",
+    "bands": [
+      "My Bloody Valentine",
+      "Slowdive",
+      "Fleeting Joys",
+      "julie",
+      "Bedroom Eyes"
+    ]
+  },
+  {
+    "key": "post_rock",
+    "title": "Post Rock",
+    "bands": [
+      "Women",
+      "Deerhunter",
+      "Polvo",
+      "Don Caballero",
+      "Palm",
+      "Unwound"
+    ]
+  },
+  {
+    "key": "dream_pop",
+    "title": "Dream Pop",
+    "bands": [
+      "Cocteau Twins",
+      "Broadcast",
+      "Julian Lynch",
+      "Exploded View",
+      "AR Kane"
+    ]
+  }
+]
