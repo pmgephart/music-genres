@@ -46,6 +46,13 @@ app.get('/api/genre/:key/bands', (req, res) => {
 	});
 });
 
+/**
+ * 404
+ */
+app.get('*', (req, res) => {
+	res.status(404).send("404 Not Found");
+});
+
 app.listen(port, () => {
 	console.log(`Server is running on port ${port}`);
 });
